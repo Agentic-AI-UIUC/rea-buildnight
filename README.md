@@ -3,7 +3,7 @@
 **Choose → Investigate → Rebuild** - Pick a product feature you're curious about. Study it with your
 coding agent and [REA](https://github.com/morluto/rea), then build your own version and compare it to the original.
 
-**We encourage you to bring your own idea.** If nothing comes to mind, there's a ready-made
+**We encourage you to bring your own idea**. However, if nothing comes to mind, there's a ready-made
 default project: [Obsidian's graph view](#default-project-obsidians-graph-view).
 
 > This is what you make of it! Sharing is optional, but would love to see you share what you built on **LinkedIn** and
@@ -42,7 +42,9 @@ Every claim your agent makes gets one label:
 
 ## 1. Set up REA
 
-You need Node.js 22.x ≥ 22.19, 24.x ≥ 24.11, or 26+, plus npm. You also need a coding agent that supports MCP.
+You need Node.js 22.x ≥ 22.19, 24.x ≥ 24.11, or 26+, plus npm.
+
+You also need a coding agent that supports MCP!
 
 ```bash
 npx rea-agents@latest setup
@@ -133,9 +135,7 @@ Obsidian creates a `vault/.obsidian/` config folder. It is gitignored.
 Install locations differ by OS and install method.
 *App package = investigation target. Sample notes = comparison inputs.*
 
-**The slide prompt:**
-
-> Investigate how Markdown links become graph connections. Show evidence before building.
+> Investigate how Markdown links become graph connections. Show evidence before building!
 
 **Build:** a Markdown notes app that can create or import notes (load `vault/`), edit and save Markdown,
 link notes with `[[Note Name]]`, and update a graph as links change. Web or Electron, and your interface can vary.
