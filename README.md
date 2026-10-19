@@ -142,8 +142,3 @@ link notes with `[[Note Name]]`, and update a graph as links change. Web or Elec
 
 **Want more?** Add backlinks, search, or graph filters. Investigate how Obsidian does each one first.
 
----
-
-## Stuck?
-
-Ask a mentor. That's what we're here for.
