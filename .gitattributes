@@ -1,0 +1,2 @@
+# Force GitHub to detect Markdown files as a primary language asset
+*.md linguist-language=Markdown
