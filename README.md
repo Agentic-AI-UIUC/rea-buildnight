@@ -1,8 +1,6 @@
-# Reverse Engineer Anything: Build Night Starter
+# Reverse Engineer Anything (REA) Build Night Template 
 
-**Agentic AI @ UIUC · Build Night**
-
-**Choose → Investigate → Rebuild.** Pick a product feature you're curious about. Study it with your
+**Choose → Investigate → Rebuild** - Pick a product feature you're curious about. Study it with your
 coding agent and [REA](https://github.com/morluto/rea), then build your own version and compare it to the original.
 
 **We encourage you to bring your own idea.** If nothing comes to mind, there's a ready-made
