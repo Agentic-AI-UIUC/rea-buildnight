@@ -6,7 +6,8 @@ coding agent and [REA](https://github.com/morluto/rea), then build your own vers
 **We encourage you to bring your own idea.** If nothing comes to mind, there's a ready-made
 default project: [Obsidian's graph view](#default-project-obsidians-graph-view).
 
-You set the pace. Sharing is optional, there is no required demo or submission, and you can keep building afterward.
+> This is what you make of it! Sharing is optional, but would love to see you share what you built on **LinkedIn** and
+tag us @Agentic-AI-UIUC, and you can always keep building afterward!
 
 ```
 .
