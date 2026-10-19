@@ -1,0 +1,31 @@
+# Dependencies and build output
+node_modules/
+dist/
+
+# Default project: Obsidian creates these when you "Open folder as vault" on vault/
+vault/.obsidian/
+vault/.trash/
+
+# Scratch space for anything copied or extracted from the target you investigate.
+# Target packages, binaries, and extracted source must never be committed.
+investigation/work/
+*.asar
+*.asar.unpacked/
+squashfs-root/
+*.AppImage
+*.dmg
+*.exe
+*.deb
+*.rpm
+*.snap
+*.flatpak
+*.msi
+*.pkg
+*.apk
+*.ipa
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.env
+.env.*
